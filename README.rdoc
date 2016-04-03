@@ -1,5 +1,0 @@
-Learning Rails
-==
-
-Excited to try to this tutorial!
-I think it will be great....
