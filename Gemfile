@@ -24,6 +24,8 @@ gem 'bcrypt', '~> 3.1.7'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
+gem 'haml', '~> 4.0.5'
+
 # learn-rails
 gem 'foundation-rails', '~> 5.5'
 gem 'gibbon'
